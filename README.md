@@ -54,7 +54,7 @@ Parity check using in-built functions</br>
  * Detailed description of the code can be found in in [this PPT](https://github.com/siddhipandare/LinearCodes/blob/master/LBC%20and%20Convolutional%20Codes.pptx "PPT") 
  </br>
 
- *  Output files are added [here](https://github.com/siddhipandare/LinearCodes/blob/master/Outputs/Linear%20Codes%20Output.docx"outputs")
+ *  Output files are added [here](https://github.com/siddhipandare/LinearCodes/tree/master/Outputs "outputs")
 
 
 ## Authors
