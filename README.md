@@ -12,7 +12,7 @@ In telecommunication, a ``convolutional code`` is a type of error-correcting
 
 ## Installing
 
->On macOS/Linux/Windows you may follow [this link](https://www.scilab.org/download/6.0.2 "scilab install")
+>On macOS/Linux/Windows you may follow [this link](https://www.scilab.org/download/6.0.2 "scilab install") to install Scilab.
 
 ## Procedure
 * Check if you have ``git`` installed on your system  using the follow command in your ``Command Prompt``:
@@ -20,7 +20,7 @@ In telecommunication, a ``convolutional code`` is a type of error-correcting
 git --version
 ```
   
- >>> Tip: You may follow [this link](https://git-scm.com/downloads "git download" ) 
+ >>> Tip: You may follow [this link](https://git-scm.com/downloads "git download" ) to download git.
     
 * Clone this repository using the following command in your preferred directory:
 
@@ -34,7 +34,7 @@ git clone https://github.com/siddhipandare/LinearCodes
 
 ### Linear codes:
 
->> Generator Matrix, </br>
+>> Generator Matrix </br>
 Parity Check Matrix 
 </br>Code word Matrix
 Hamming weights</br>
@@ -51,7 +51,7 @@ Total number of parity bits</br>
 Parity check using in-built functions</br>
 
 ## Note
- * Detailed description of the code can be found in in [this PPT](https://github.com/siddhipandare/LinearCodes/blob/master/LBC%20and%20Convolutional%20Codes.pptx "PPT") 
+ * Detailed description of the code can be found in [this PPT](https://github.com/siddhipandare/LinearCodes/blob/master/LBC%20and%20Convolutional%20Codes.pptx "PPT") 
  </br>
 
  *  Output files are added [here](https://github.com/siddhipandare/LinearCodes/tree/master/Outputs "outputs")
